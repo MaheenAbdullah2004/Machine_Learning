@@ -88,4 +88,4 @@ This gives an intuitive view of how the patients are distributed in a reduced 2D
 
    ```bash
    git clone https://github.com/<MaheenAbdullah2004>/<Machine_Learning>.git
-   cd <your-repo-name>
+   cd <machine_Learning>
